@@ -7,4 +7,7 @@ Numpy
 Tkinter
 Pillow
 
+COMMAND FOR MODULES:
 pip install opencv-contrib-python, numpy, tkinter, Pillow
+
+Create 2 Folders, one called 'dataset' & another called 'trainer'
